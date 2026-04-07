@@ -1,2 +1,6 @@
 # sysmon-tryhackme-room-write-up
-Hands-on TryHackMe Sysmon write-up covering process, network, registry, and persistence investigations with Event Viewer and PowerShell.
+
+My write-up for the Sysmon room on TryHackMe, where I worked through Sysmon logs, filtered events, and investigated suspicious activity with Event Viewer and PowerShell.
+
+## Write-Up
+[View the PDF](./sysmon-tryhackme-room-write-up.pdf)
